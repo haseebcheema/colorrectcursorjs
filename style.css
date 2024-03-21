@@ -22,7 +22,6 @@ html, body{
 #rectangle{
     width: 500px;
     height: 250px;
-    color: #fff;
     border: 1px solid #000;
     border-radius: 10px;
     position: absolute;
@@ -30,4 +29,6 @@ html, body{
     left: 50%;
     transform: translate(-50%, -50%);
     margin-top: 50px;
+    cursor: pointer;
+    color: #fff;
 }
